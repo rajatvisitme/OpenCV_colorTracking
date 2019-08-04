@@ -1,9 +1,11 @@
-<h1><center>OpenCV_colorTracking</center></h1>
-<h2>Overview<h2>
-In this module we will create a real-time color tracker using OpenCV library.<br>
-    We will capture the live video using camera and then use trackbars to set color ranges, BGR respectively.<br>
-    And then we will mask all the regions of live-video-feed which doesn't lies in the selected range.
-<h2>Dependencies<h2>
+# <centre>OpenCV_colorTracking</centre>
+
+<h2>Overview</h2>
+<p>In this module we will create a real-time color tracker using OpenCV library.<br>
+We will capture the live video using camera and then use trackbars to set color ranges, BGR respectively.<br>
+And then we will mask all the regions of live-video-feed which doesn't lies in the selected range.</p>
+	
+<h2>Dependencies</h2>
 <p><ul>
     <li>OpenCV</li>
     <li>Numpy</li>
